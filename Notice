@@ -1,4 +1,21 @@
 Notice
 
 Coin Night Watch
- 2017.12.30
+ 2018. 01.05
+
+1.0.0.5 버전 릴리즈 됐습니다.
+
+기능 개선 사항
+ - 자동 거래 종료시 매도 청산 옵션
+ - 영상 분석 영역 보호 기능
+
+버그 수정 사항
+ - 가상 거래 누적 금액 버그 수정
+
+메뉴얼
+ - https://blog.naver.com/devdebug
+
+문의 
+ - 카톡 : open.kakao.com/o/guzxjQE
+ - 텔레그램 : coinNightWatch
+ - Email : coinNightWatch@gmail.com
